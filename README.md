@@ -9,7 +9,7 @@
   src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif"
   alt="GIF" 
   height="300" 
-  width="450" 
+  width="350" 
   align="right"  />
 
 
