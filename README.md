@@ -70,7 +70,8 @@ Currently, my MPhil research focuses on **domain-specific LLMs** and **low-resou
 - 🔬 [`ai-projects`](https://github.com/arooshahmad-data/ai-projects): Portfolio of real-world AI applications in NLP & CV  
 - 🧪 [`ai-labs`](https://github.com/arooshahmad-data/ai-labs): Experiments and learning notebooks on ML, DL, CV, LLMs  
 - 🕺 [`pose detection and correction`](https://github.com/arooshahmad-data/pose-estimation-correction-ui-emgucv): Detect and correct human pose in images and videos  
-- 🔐 [`captcha-solver`](https://github.com/arooshahmad-data/captcha-solver): Extract and decode CAPTCHA text from images
+- 🔐 [`urdu-ocr-media-utils`](https://github.com/arooshahmad-data/urdu-ocr-media-utils): Pdf Urdu books to text using ocr
+- 🔐 [`data-matrix-recovery`]([https://github.com/arooshahmad-data/urdu-ocr-media-utils](https://github.com/arooshahmad-data/datamatrix-recovery)): End-to-end system for detecting and reconstructing damaged DataMatrix codes using YOLO and image processing.
 
 <p align="left">
   <span>
