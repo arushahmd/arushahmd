@@ -3,9 +3,26 @@
 
 <h2>Hi, I'm Aroosh Ahmad 👋</h2>
 
-🎓 **MPhil in Artificial Intelligence** @ [University of the Punjab](https://www.pu.edu.pk/) — focusing on NLP and domain-specific LLMs, low-resource OCR - (additional).  
-💡 Former AI Researcher (NLP + CV) — Research Officer @ CLE, UET Lahore | Freelance AI Engineer (Upwork/Fiverr)  
-📍 Lahore, Pakistan | [LinkedIn](https://linkedin.com/in/arooshahmad-data)
+🎓 **MPhil in Artificial Intelligence** @ [University of the Punjab](https://www.pu.edu.pk/) — focusing on NLP and domain-specific LLMs, with additional research on low-resource OCR. <br>
+💼 **Open to full-time AI/ML roles** — NLP, LLMs, Computer Vision, or ML Engineering  <br>
+💡 Former AI Researcher (NLP + CV) — Research Officer @ CLE, UET Lahore | Freelance AI Engineer (Upwork/Fiverr)  <br>
+📍 Lahore, Pakistan |
+<p align="center">
+  
+  <a href="https://linkedin.com/in/arooshahmad-data">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/arooshahmad-data">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/arooshahmadds">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/arooshahmad_data">
+    <img src="https://img.shields.io/badge/HackerRank-24292F?style=flat&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
 
 ### 👨‍💻 About Me
 
