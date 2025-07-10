@@ -1,83 +1,81 @@
-<!-- 🚧 Banner Placeholder -->
+<!-- 🚧 Optional banner if you want to include a personal or tech-themed image -->
 <!-- ![Banner](main_image.jpeg) -->
 
-<h2>Hi, I am Aroosh 👋 
-<!-- <img   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJicGtlMG9hd2Z0ZGtreXVnNzIzdXgwNWhtajFxd2kzNjdncHVoMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JNKwiQLCm4xM0HvS5Z/giphy.gif"    width="40" /> -->
-</h2>
+<h2>Hi, I'm Aroosh Ahmad 👋</h2>
 
-<img 
-  src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif"
-  alt="GIF" 
-  height="300" 
-  width="350" 
-  align="right"  />
+🎓 **MPhil in Artificial Intelligence** @ [University of the Punjab](https://www.pu.edu.pk/) — focusing on NLP and domain-specific LLMs, low-resource OCR - (additional).  
+💡 Former AI Researcher (NLP + CV) — Research Officer @ CLE, UET Lahore | Freelance AI Engineer (Upwork/Fiverr)  
+📍 Lahore, Pakistan | [LinkedIn](https://linkedin.com/in/arooshahmad-data)
 
+### 👨‍💻 About Me
 
-<p><em>MPhil AI at <a href="https://www.pu.edu.pk/">University of Punjab</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>ML Engineer at <a href="https://www.upwork.com/">Upwork</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em>
-  
+I'm an **AI Engineer & NLP Researcher** with 3+ years of experience building real-world machine learning systems in:
+
+- **Natural Language Processing (NLP)** — Transformers (BERT, GPT), LLM fine-tuning, LangChain, OCR, text classification  
+- **Computer Vision (CV)** — YOLOv5, image segmentation, object detection, image captioning, visual QA  
+- **Deployment & Tooling** — FastAPI, Docker, Azure ML, Django REST Framework, Streamlit
+
+Currently, my MPhil research focuses on **domain-specific LLMs** and **low-resource OCR for Arabic-script languages**. I enjoy building AI systems that are not just smart, but also **deployable and production-ready**.
+
+<h2 align="left">🧠 Technical Stack</h2>
+
+<h4 align="left">🚀 Current Focus & Tools</h4>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/arooshahmad-data">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/arooshahmad-data">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <!-- 
-  <a href="https://www.instagram.com/arush_ahmd/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/lP0jgopI3F/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
-  </a> -->
-  <a href="https://www.hackerrank.com/profile/arooshahmad_data">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 </p>
 
-### 👨‍💻 Technologies I Work With  
-<p>
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
-  <!-- ML & Data Science -->
-  <img src="https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=ee4c2c" />
-  <img src="https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=ff6f00" />
-  <br>
-  <img src="https://img.shields.io/badge/ML-Scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=f7931e" />
-
-  <!-- Data Libraries -->
-  <img src="https://img.shields.io/badge/Data-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2787db" />
-  <img src="https://img.shields.io/badge/Data-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=0cccc6" />
-
-  <!-- Web Framework -->
-  <br>
-  <img src="https://img.shields.io/badge/Web-Django-informational?style=flat&logo=django&logoColor=white&color=099e16" />
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-GPT-informational?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-BERT-informational?style=flat&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-8A2BE2?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
 </p>
 
-### 🛠️ Tools I've Also Worked With  
-<p>
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1e" />
-  <img src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=239120" />
-
-  <!-- Web & Platforms -->
-  <img src="https://img.shields.io/badge/Web-.NET%20MVC-informational?style=flat&logo=dotnet&logoColor=white&color=512bd4" />
-  <img src="https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=27cfdb" />
-  <br>
-  <img src="https://img.shields.io/badge/Cloud-Azure%20ML-informational?style=flat&logo=microsoftazure&logoColor=white&color=0078D4" />
-  <!-- Web Scraping -->
-  <img src="https://img.shields.io/badge/Scraping-Selenium%20%26%20BeautifulSoup-informational?style=flat&logo=python&logoColor=white&color=43B02A" />
-
-  <!-- Databases -->
-  <br>
-  <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248" />
-  <img src="https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=sqlite&logoColor=white&color=003B57" />
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791" />
-  <img src="https://img.shields.io/badge/DB-MSSQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**Always happy to meet new people! If you'd like to say hi, don't hesitate — I’d love to connect. 🤝**
-</em>
-<!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file -->
+<h4 align="left">🧰 Previously Worked With</h4>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET%20MVC-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+## 📂 Key Repositories
+
+- 🔬 [`ai-projects`](https://github.com/arooshahmad-data/ai-projects): Portfolio of real-world AI applications in NLP & CV  
+- 🧪 [`ai-labs`](https://github.com/arooshahmad-data/ai-labs): Experiments and learning notebooks on ML, DL, CV, LLMs  
+- 🕺 [`pose detection and correction`](https://github.com/arooshahmad-data/pose-estimation-correction-ui-emgucv): Detect and correct human pose in images and videos  
+- 🔐 [`captcha-solver`](https://github.com/arooshahmad-data/captcha-solver): Extract and decode CAPTCHA text from images
+
+<p align="left">
+  <span>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="vertical-align: middle; margin-right: 8px;" />
+    <em><b>Thanks for visiting!</b></em> I'm open to AI/ML roles in NLP, CV, and LLM-focused teams.  
+    Feel free to explore my repositories or reach out — <strong>always happy to connect and collaborate 🤝</strong>
+  </span>
+</p>
