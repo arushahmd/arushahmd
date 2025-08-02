@@ -55,9 +55,12 @@ Feel free to explore my repositories or reach out — <strong>always happy to co
 <a href="https://github.com/arushahmd">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
-<!-- <a href="https://www.kaggle.com/arooshahmadds">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
-</a> -->
+<a href="https://www.kaggle.com/arooshahmadds">
+<img src="https://img.shields.io/badge/Kaggle-5AC8FA?style=flat-square&logo=kaggle&logoColor=white" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/arooshahxf10/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+</a>
 <a href="https://www.hackerrank.com/profile/arooshahmad_data">
 <img src="https://img.shields.io/badge/HackerRank-24292F?style=flat-square&logo=hackerrank&logoColor=white" />
 </a>
