@@ -1,44 +1,63 @@
 ## 😃 Hi I am Aroosh Ahmad!.
-I am experienced **`AI Engineer`** currently pursuing MPhil AI @ [PUCIT](https://www.pu.edu.pk/) with research focus on LLMs finetuning and hyperparameter optimization.
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh6b2xuM3hubWl6ZTg5eThnOTJtNHZsNGduaHVrazl3ZnM5M3JzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width=320 align="right" /> 
 
-### 💼I am open to offers
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh6b2xuM3hubWl6ZTg5eThnOTJtNHZsNGduaHVrazl3ZnM5M3JzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width=400 align="right" />
+<b>AI Engineer · NLP • LLMs • CV • MLOps</b>  <br>
+MPhil (AI) candidate <b>@</b> [PUCIT](https://www.pu.edu.pk/)<br>
+<b>Research → </b> LLM finetuning, hyperparameter optimization & production-grade LLM systems
 
-![AIEngineer](https://img.shields.io/badge/AI-Engineer-informational?style=flat-square)
-![LLMEngineer](https://img.shields.io/badge/LLM-Engineer-informational?style=flat-square)
-![MLEngineer](https://img.shields.io/badge/ML-Engineer-informational?style=flat-square)
+### 💼 Open To
+- **Roles:** LLM / NLP / Computer Vision / ML Engineering
+- **Strengths:** Model deployment, RAG pipelines, vector search, and optimization
 
+######
+```python
+from langchain.embeddings import HuggingFaceEmbeddings
+from langchain.vectorstores import FAISS
+from langchain.llms import OpenAI
+from langchain.chains import RetrievalQA
 
-### Languages... Frameworks... Tools
-![Python](https://img.shields.io/badge/py-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/js-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pt-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tf-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Sklearn](https://img.shields.io/badge/.-SkLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)<br>
-![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-FFD21F?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-GPT--BERT-4B8BBE?style=flat-square&logo=openai)
-![RAG](https://img.shields.io/badge/.-RAG-8A2BE2?style=flat-square&logo=openai&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤖-Transformers-informational?style=flat-square)
-![LangChain](https://img.shields.io/badge/.-LangChain-0E76A8?style=flat-square&logo=langChain)<br>
-![OpenAI](https://img.shields.io/badge/OpenAI-API-353740?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-API-4285F4?style=flat-square&logo=googleGemini&logoColor=white)
-![YOLO](https://img.shields.io/badge/.-YOLO-FB923C?style=flat-square&logo=yolo)
-![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DjangoRest-API-092E20?style=flat-square&logo=django&logoColor=white)<br>
-![Docker](https://img.shields.io/badge/.-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-[![Azure ML](https://img.shields.io/badge/AzureML-Cloud-0078D4?style=flat-square&logo=azure-devops&logoColor=white)](https://learn.microsoft.com/en-us/azure/machine-learning/)
-[![Vertex AI](https://img.shields.io/badge/VertexAI-Google%20Cloud-0078D4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/vertex-ai)
-[![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-009688?style=flat-square&logo=search&logoColor=white)](https://github.com/facebookresearch/faiss)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-Embedding%20DB-informational?style=flat-square&logo=database&logoColor=white)](https://docs.trychroma.com/)
+# Create embeddings and vector store
+emb = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+index = FAISS.from_documents(chunks, emb)
 
+# Retriever + LLM
+retriever = index.as_retriever(search_kwargs={"k": 5})
+llm = OpenAI(model="gpt-4", temperature=0)
+qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=retriever)
+print(qa_chain.run("Explain the key findings"))
 
+```
 ### Key Repositories
-Here are some key repos: &nbsp;&nbsp;
-[`ai-projects`](https://github.com/arushahmd/ai-projects) 
-[`ai-labs`](https://github.com/arushahmd/ai-labs)
-[`pose detection and correction`](https://github.com/arushahmd/pose-estimation-correction-ui-emgucv) 
-[`urdu-ocr-media-utils`](https://github.com/arushahmd/urdu-ocr-media-utils)
-[`data-matrix-recovery`](https://github.com/arushahmd/datamatrix-recovery)
+<p align="center">
+<a href="https://github.com/arushahmd/ai-projects">🔹 ai-projects</a> •
+<a href="https://github.com/arushahmd/ai-labs">🔹 ai-labs</a> •
+<a href="https://github.com/arushahmd/pose-estimation-correction-ui-emgucv">🔹 pose-detection</a> •
+<a href="https://github.com/arushahmd/urdu-ocr-media-utils">🔹 urdu-ocr-media-utils</a> •
+<a href="https://github.com/arushahmd/datamatrix-recovery">🔹 data-matrix-recovery</a>
+</p>
+
+### 🧩 Example: End-to-End RAG Pipeline
+<details>
+<summary>Click to expand</summary>
+  
+```python
+from langchain.embeddings import HuggingFaceEmbeddings
+from langchain.vectorstores import FAISS
+from langchain.llms import OpenAI
+from langchain.chains import RetrievalQA
+
+# Create embeddings and vector store
+emb = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+index = FAISS.from_documents(chunks, emb)
+
+# Retriever + LLM
+retriever = index.as_retriever(search_kwargs={"k": 5})
+llm = OpenAI(model="gpt-4", temperature=0)
+qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=retriever)
+print(qa_chain.run("Explain the key findings"))
+
+```
+</details>
 
 <p align="left">
 <span>
@@ -65,6 +84,7 @@ Feel free to explore my repositories or reach out — <strong>always happy to co
 <img src="https://img.shields.io/badge/HackerRank-24292F?style=flat-square&logo=hackerrank&logoColor=white" />
 </a>
 </p>
+
 
 
 
