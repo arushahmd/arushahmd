@@ -41,7 +41,7 @@ print(qa.run("What are the key findings in the PDF?"))
 
 ```
 
-📫 Let’s Connect
+**📫 Let’s Connect**
 <p align="left"> 
   <a href="mailto:arooshahmad.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   <a href="https://www.linkedin.com/in/arushahmd"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
