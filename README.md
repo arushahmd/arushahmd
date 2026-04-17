@@ -1,49 +1,46 @@
-# 😃 Hi, I'm Aroosh Ahmad!
+# Aroosh Ahmad
 
-**AI / ML Engineer @ [CygnusPay](https://cygnuspay.com)** · MPhil (AI) @ [PUCIT](https://www.pu.edu.pk/)  
-Specialized in **LLMs, NLP, Computer Vision, and MLOps**
+**Applied AI Engineer** building production systems across **LLMs, Voice AI, NLP, Computer Vision, and backend infrastructure**.
 
-**I build and deploy production-grade AI systems.**  
-- ⚡ LLM / RAG pipelines (data → vector DB → retriever + LLM)
-- 🛠️ Scalable deployment · MLOps · vector search  
-- 🎯 Retrieval optimization · inference speed · cost reduction  
-- 🚀 Hands-on with fine-tuning, hyperparameter tuning, and model serving  
+Lahore, Pakistan | Remote | Comfortable with US time zones
 
-**Open to:** LLM · NLP · Computer Vision · ML Engineering roles  
+[Portfolio](https://arushahmd.github.io/portfolio/#/) | [LinkedIn](https://www.linkedin.com/in/arushahmd/) | [GitHub](https://github.com/arushahmd) | [Email](mailto:arooshahmad.data@gmail.com)
 
-## ⚙️ Quick RAG Pipeline Example
+> I build AI systems that ship: low-latency voice workflows, OCR pipelines, LLM infrastructure, and backend-heavy applications designed for reliability, reproducibility, and measurable impact.
 
-```python
-from langchain.document_loaders import PyPDFLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import FAISS
-from langchain.llms import OpenAI
-from langchain.chains import RetrievalQA
+## Highlights
 
-# Load and split PDF
-docs = PyPDFLoader("sample.pdf").load()
-chunks = RecursiveCharacterTextSplitter(
-    chunk_size=1000, chunk_overlap=200
-).split_documents(docs)
+- `3+ years` shipping applied AI systems
+- `<1s` production voice latency
+- `~98%` OCR accuracy
+- `99%` manual effort saved
 
-# Embed + store in FAISS
-embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-db = FAISS.from_documents(chunks, embeddings)
+## Selected Work
 
-# Retriever + LLM
-qa = RetrievalQA.from_chain_type(
-    llm=OpenAI(model="gpt-4", temperature=0),
-    retriever=db.as_retriever(search_kwargs={"k": 5})
-)
+**Compass Voice**  
+Real-time AI voice ordering system with Twilio, Deepgram, FastAPI, Redis, AWS, DistilBERT, and spaCy. Built deterministic ordering and payment flows with sub-second latency.
 
-print(qa.run("What are the key findings in the PDF?"))
+**Urdu OCR Pipeline**  
+CNN-LSTM OCR system for Urdu, Arabic, and Farsi. Reached `~98%` accuracy and reduced CER from `3.4%` to `2.3%`.
 
-```
+**LLM Fine-Tuning Research**  
+Built a reproducible Flan-T5 + LoRA experimentation pipeline with semantic batching, FAISS, and multi-seed evaluation.
 
-**📫 Let’s Connect**
-<p align="left"> 
-  <a href="mailto:arooshahmad.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-  <a href="https://www.linkedin.com/in/arushahmd"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="https://github.com/arushahmd"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a> 
-</p>
+**MenuParser AI**  
+OCR + LLM pipeline that converts menus into structured JSON and reduced manual entry effort by `~99%`.
+
+## Experience
+
+- **Cygnus Payments** - AI / Backend Engineer (`Aug 2025 - Present`)
+- **Independent Research** - LLM Research Engineer (`Jan 2025 - Present`)
+- **Center of Language Engineering** - AI Research Officer (`Nov 2023 - Feb 2025`)
+- **Nodlays** - AI Engineer (`Oct 2022 - Jan 2024`)
+
+## Stack
+
+`Python` `FastAPI` `PyTorch` `TensorFlow` `Transformers` `Hugging Face` `LangChain` `LangGraph` `FAISS` `Redis` `PostgreSQL` `Docker` `AWS` `Azure ML` `GCP Vertex AI` `Twilio` `Deepgram` `spaCy` `PaddleOCR` `YOLO`
+
+## Education
+
+- MPhil in Artificial Intelligence, PUCIT (`2024-2026`)
+- BS Computer Science, Lahore Garrison University (`2017-2021`)
