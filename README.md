@@ -10,35 +10,37 @@ Lahore, Pakistan | Remote | Comfortable with US time zones
 
 ## Highlights
 
-- `3+ years` shipping applied AI systems
-- `<1s` production voice latency
-- `~98%` OCR accuracy
-- `99%` manual effort saved
+| `3+ years` | `<1s` latency | `~98%` OCR accuracy | `99%` effort saved |
+| --- | --- | --- | --- |
+| shipped applied AI systems | production voice workflows | Urdu, Arabic, Farsi OCR | menu digitization automation |
+
+## What I Build
+
+- Production LLM systems, voice agents, and backend-heavy AI applications
+- NLP and computer vision pipelines optimized for latency, reliability, and measurable impact
+- Research-aware ML systems with reproducible evaluation and engineering discipline
 
 ## Selected Work
 
-**Compass Voice**  
-Real-time AI voice ordering system with Twilio, Deepgram, FastAPI, Redis, AWS, DistilBERT, and spaCy. Built deterministic ordering and payment flows with sub-second latency.
+| System | Summary | Impact |
+| --- | --- | --- |
+| **Compass Voice** | Real-time AI voice ordering system built with Twilio, Deepgram, FastAPI, Redis, AWS, DistilBERT, and spaCy | `<1s` production latency |
+| **Urdu OCR Pipeline** | CNN-LSTM OCR system for Urdu, Arabic, and Farsi document understanding workflows | `~98%` accuracy, CER `3.4% -> 2.3%` |
+| **LLM Fine-Tuning Research** | Flan-T5 + LoRA pipeline with semantic batching, FAISS, and reproducible multi-seed evaluation | improved training stability |
+| **MenuParser AI** | OCR + LLM pipeline that converts restaurant menus into structured JSON | `~99%` manual effort saved |
 
-**Urdu OCR Pipeline**  
-CNN-LSTM OCR system for Urdu, Arabic, and Farsi. Reached `~98%` accuracy and reduced CER from `3.4%` to `2.3%`.
+## Experience Snapshot
 
-**LLM Fine-Tuning Research**  
-Built a reproducible Flan-T5 + LoRA experimentation pipeline with semantic batching, FAISS, and multi-seed evaluation.
+| Role | Scope |
+| --- | --- |
+| **Cygnus Payments** - AI / Backend Engineer | Production voice AI, dialogue infrastructure, payments, backend systems |
+| **Independent Research** - LLM Research Engineer | Instruction tuning, batching strategy, reproducible experimentation |
+| **Center of Language Engineering** - AI Research Officer | OCR, NLP, computer vision, API-first backend refactoring |
+| **Nodlays** - AI Engineer | Production ML, OCR, YOLO, automation, Django REST services |
 
-**MenuParser AI**  
-OCR + LLM pipeline that converts menus into structured JSON and reduced manual entry effort by `~99%`.
+## Core Stack
 
-## Experience
-
-- **Cygnus Payments** - AI / Backend Engineer (`Aug 2025 - Present`)
-- **Independent Research** - LLM Research Engineer (`Jan 2025 - Present`)
-- **Center of Language Engineering** - AI Research Officer (`Nov 2023 - Feb 2025`)
-- **Nodlays** - AI Engineer (`Oct 2022 - Jan 2024`)
-
-## Stack
-
-`Python` `FastAPI` `PyTorch` `TensorFlow` `Transformers` `Hugging Face` `LangChain` `LangGraph` `FAISS` `Redis` `PostgreSQL` `Docker` `AWS` `Azure ML` `GCP Vertex AI` `Twilio` `Deepgram` `spaCy` `PaddleOCR` `YOLO`
+`Python` `FastAPI` `PyTorch` `Transformers` `Hugging Face` `LangChain` `LangGraph` `FAISS` `Redis` `PostgreSQL` `Docker` `AWS` `Azure ML` `GCP Vertex AI` `Twilio` `Deepgram` `spaCy` `PaddleOCR` `YOLO`
 
 ## Education
 
