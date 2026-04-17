@@ -1,46 +1,60 @@
-# Aroosh Ahmad
+<p align="center">
+  <img src="./assets/banner-option-codeclose.jpg" alt="Aroosh Ahmad banner" />
+</p>
 
-**Applied AI Engineer** building production systems across **LLMs, Voice AI, NLP, Computer Vision, and backend infrastructure**.
+<p align="center">
+  <a href="https://arushahmd.github.io/portfolio/#/">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/arushahmd/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arooshahmad.data@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/923194040067">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
-Lahore, Pakistan | Remote | Comfortable with US time zones
-
-[Portfolio](https://arushahmd.github.io/portfolio/#/) | [LinkedIn](https://www.linkedin.com/in/arushahmd/) | [GitHub](https://github.com/arushahmd) | [Email](mailto:arooshahmad.data@gmail.com)
-
-> I build AI systems that ship: low-latency voice workflows, OCR pipelines, LLM infrastructure, and backend-heavy applications designed for reliability, reproducibility, and measurable impact.
-
-## Highlights
-
-| `3+ years` | `<1s` latency | `~98%` OCR accuracy | `99%` effort saved |
-| --- | --- | --- | --- |
-| shipped applied AI systems | production voice workflows | Urdu, Arabic, Farsi OCR | menu digitization automation |
-
-## What I Build
-
-- Production LLM systems, voice agents, and backend-heavy AI applications
-- NLP and computer vision pipelines optimized for latency, reliability, and measurable impact
-- Research-aware ML systems with reproducible evaluation and engineering discipline
-
-## Selected Work
-
-| System | Summary | Impact |
-| --- | --- | --- |
-| **Compass Voice** | Real-time AI voice ordering system built with Twilio, Deepgram, FastAPI, Redis, AWS, DistilBERT, and spaCy | `<1s` production latency |
-| **Urdu OCR Pipeline** | CNN-LSTM OCR system for Urdu, Arabic, and Farsi document understanding workflows | `~98%` accuracy, CER `3.4% -> 2.3%` |
-| **LLM Fine-Tuning Research** | Flan-T5 + LoRA pipeline with semantic batching, FAISS, and reproducible multi-seed evaluation | improved training stability |
-| **MenuParser AI** | OCR + LLM pipeline that converts restaurant menus into structured JSON | `~99%` manual effort saved |
+<p align="center">
+  <img src="https://img.shields.io/badge/Lahore-Pakistan-0F172A?style=flat-square&labelColor=111827" alt="Lahore, Pakistan" />
+  <img src="https://img.shields.io/badge/Remote-Worldwide-1D4ED8?style=flat-square&labelColor=1E3A8A" alt="Remote" />
+  <img src="https://img.shields.io/badge/Timezone-US%20Hours%20Friendly-0EA5E9?style=flat-square&labelColor=075985" alt="US hours friendly" />
+</p>
 
 ## Experience Snapshot
 
-| Role | Scope |
-| --- | --- |
-| **Cygnus Payments** - AI / Backend Engineer | Production voice AI, dialogue infrastructure, payments, backend systems |
-| **Independent Research** - LLM Research Engineer | Instruction tuning, batching strategy, reproducible experimentation |
-| **Center of Language Engineering** - AI Research Officer | OCR, NLP, computer vision, API-first backend refactoring |
-| **Nodlays** - AI Engineer | Production ML, OCR, YOLO, automation, Django REST services |
+- **Cygnus Payments** - AI / Backend Engineer (`Aug 2025 - Present`)
+- **Independent Research** - LLM Research Engineer (`Jan 2025 - Present`)
+- **Center of Language Engineering** - AI Research Officer (`Nov 2023 - Feb 2025`)
+- **Nodlays** - AI Engineer (`Oct 2022 - Jan 2024`)
+
+## Selected Work
+
+- **Compass Voice** - Real-time voice ordering on Twilio, Deepgram, FastAPI, Redis, AWS, DistilBERT, and spaCy. **`<1s` latency**
+- **Urdu OCR Pipeline** - CNN-LSTM OCR and NLP pipeline for Urdu, Arabic, and Farsi. **`~98%` accuracy, `3.4% -> 2.3%` CER**
+- **MenuParser AI** - OCR + LLM menu structuring pipeline for restaurant operations. **`~99%` effort saved**
+- **LLM Fine-Tuning Research** - Flan-T5 + LoRA pipeline with semantic batching, FAISS, and reproducible multi-seed evaluation.
 
 ## Core Stack
 
-`Python` `FastAPI` `PyTorch` `Transformers` `Hugging Face` `LangChain` `LangGraph` `FAISS` `Redis` `PostgreSQL` `Docker` `AWS` `Azure ML` `GCP Vertex AI` `Twilio` `Deepgram` `spaCy` `PaddleOCR` `YOLO`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,django,react,js,ts,postgres,redis,docker,aws,gcp,azure,opencv,git,github" alt="Core stack icons" />
+</p>
+
+<p align="center">
+  <code>Transformers</code>
+  <code>Hugging Face</code>
+  <code>LangChain</code>
+  <code>LangGraph</code>
+  <code>FAISS</code>
+  <code>Twilio</code>
+  <code>Deepgram</code>
+  <code>spaCy</code>
+  <code>PaddleOCR</code>
+  <code>YOLO</code>
+</p>
 
 ## Education
 
