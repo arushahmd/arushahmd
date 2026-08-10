@@ -39,7 +39,7 @@ I focus on **shipping systems, not just models**.
 
 ## Experience Snapshot
 
-- **Cygnus Payments** - AI / Backend Engineer (`Aug 2025 - Present`)
+- **Cygnus Payments** - AI / Backend Engineer (`Aug 2025 - June 2026`)
 - **Independent Research** - LLM Research Engineer (`Jan 2025 - Present`)
 - **Center of Language Engineering** - AI Research Officer (`Nov 2023 - Feb 2025`)
 - **Nodlays** - AI Engineer (`Oct 2022 - Jan 2024`)
