@@ -55,9 +55,9 @@ Empirical study of mini-batch composition and training-example order for instruc
   <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,redis,docker,opencv,aws,azure,git,github" alt="Core stack" />
 </p>
 
-**AI / ML:** PyTorch, Transformers, Hugging Face, LoRA/PEFT, RAG, FAISS  
-**Backend:** Python, FastAPI, REST APIs, WebSockets, Redis, PostgreSQL  
-**Voice / CV:** Twilio, Deepgram, OpenCV, OCR, image processing  
+**AI / LLM:** LLMs, RAG, Agentic AI, tool workflows, prompt engineering, fine-tuning, evaluation, PyTorch, Transformers, Hugging Face, LoRA/PEFT, FAISS  
+**Backend & Data:** Python, FastAPI, REST APIs, WebSockets, SQL, PostgreSQL, Redis  
+**Voice & Vision:** Twilio, Deepgram, streaming STT/TTS, OpenCV, OCR, image processing  
 **Infrastructure:** Docker, GitHub Actions, AWS, Azure
 
 ## Background
